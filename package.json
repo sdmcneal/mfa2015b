@@ -1,0 +1,11 @@
+{
+  "name": "learn-node",
+  "version": "0.0.1",
+  "description": "practice node application",
+  "license": "license information",
+  "dependencies": {
+    "async": "^1.0.0",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.3"
+  }
+}
